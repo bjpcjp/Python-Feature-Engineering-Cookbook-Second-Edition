@@ -1,0 +1,21 @@
+- Statistical methods make assumptions about the data. 
+- For example: the general linear model assumes 
+    - dependent variable (target) values are independent.
+    - there is a linear relationship between the target and the independent (predictor) variables.
+    - residuals (the difference between predicted and real target values) are normally distributed and centered at 0. 
+- To improve the performance of the models, we can **transform variables** before the analysis.
+- Variable transformation = replacing original values **with a function of that variable**. 
+- Transforming variables with math functions helps:
+    - reduce variable skewness
+    - improve the value spread
+    - sometimes unmask linear and additive relationships between predictors and the target. 
+- Common math transformations:
+    - logarithm
+    - reciprocal
+    - power
+    - square
+    - cube root transformations
+    - Box-Cox
+    - Yeo-Johnson
+- This set of transformations is commonly referred to as **variance stabilizing** transformations. 
+- Variance stabilizing transforms bring the distribution of the variable to a more symmetric (Gaussian) shape.
