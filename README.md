@@ -1,13 +1,12 @@
 
-### Get this product for $5
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
 
-<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
 
 
-<b><p align='center'>[Buy now](https://packt.link/9781804611302)</p></b>
-
-
-<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
 
 
 # Python Feature Engineering Cookbook-Second Edition
@@ -63,6 +62,10 @@ With the following software and hardware list you can run all code files present
 |     1-11      |Jupyter Notebook   																					  |         Windows, Mac OS, or Linux                            |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://packt.link/UXyxc).
+
+## Errata
+
+* Page 332 : **Scikit-learn dataset website: z** should be **Scikit-learn dataset website: https://scikit-learn.org/stable/datasets/real_world.html#newsgroups-dataset**
 
 ### Related products <Other books you may enjoy>
 * Data Cleaning and Exploration with Machine Learning [[Packt]](https://www.packtpub.com/product/data-cleaning-and-exploration-with-machine-learning/9781803241678) [[Amazon]](https://www.amazon.com/dp/1803241675)
